@@ -53,4 +53,13 @@ const getBlogContent = async () => {
 
 getBlogContent();
 
+
+const loadAdds() => {
+  console.log('Adds loaded');
+}
+
+//Practicando un PullRequest 
+//Contrib repo
+console.log('solucionado')
 console.log('Conflicto?')
+
